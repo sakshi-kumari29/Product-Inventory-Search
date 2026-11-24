@@ -1,2 +1,53 @@
-# Product-Inventory-Search
-Product Inventory Search is a Java-based application that allows users to efficiently search, view, and manage product inventory. It helps users find products quickly using product names or IDs, check availability, and access product details through a simple and user-friendly interface.
+
+# Product Inventory Search
+
+## About the Project
+Product Inventory Search is a Java-based application designed to make product searching and inventory management easier. It allows users to search for products and view their details quickly and efficiently.
+
+## Features
+- Search products by name or ID.
+- Display product details.
+- Check product availability.
+- Simple and user-friendly interface.
+- Fast and efficient searching.
+
+## Technologies Used
+- Java
+- VS Code
+- JDK
+
+## Project Structure
+
+Product-Inventory-Search/
+│
+├── Main.java
+├── README.md
+└── (Other project files)
+
+## How to Run the Project
+
+1. Install Java JDK.
+2. Open the project folder in VS Code.
+3. Open the terminal.
+4. Compile the Java file:
+
+   javac Main.java
+
+5. Run the program:
+
+   java Main
+
+## Working
+The application takes product search input from the user, checks the available inventory, and displays matching product information.
+
+## Future Improvements
+- Add a graphical user interface.
+- Connect the application to a database.
+- Add product update and delete functionality.
+- Implement advanced search filters.
+
+## Author
+Sakshi Kumari
+
+## License
+This project is created for educational purposes.

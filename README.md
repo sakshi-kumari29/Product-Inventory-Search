@@ -24,19 +24,6 @@ Product-Inventory-Search/
 ├── README.md
 └── (Other project files)
 
-## How to Run the Project
-
-1. Install Java JDK.
-2. Open the project folder in VS Code.
-3. Open the terminal.
-4. Compile the Java file:
-
-   javac Main.java
-
-5. Run the program:
-
-   java Main
-
 ## Working
 The application takes product search input from the user, checks the available inventory, and displays matching product information.
 
